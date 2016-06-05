@@ -1,6 +1,7 @@
 # CSE-574
 
-CLASSIFICATION AND REGRESSION
-
-Performed Binomial and multinomial logistic regression to understand the statistical classification model on MNIST data set. Also 
-performed SVM using linear kernel, radial basis kernel with different gamma settings. The accuracies were listed for training, testing, validation data.
+The objective of this project is to implement a Multilayer Perceptron Neural Network and
+evaluate its performance in classifying handwritten digits. Feed forward propagation, Backward
+propagation were used for implementation of the neural network. We have evaluated the
+performance of the neural network by changing the values of hidden nodes, regularization
+coefficients.
